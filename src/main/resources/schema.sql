@@ -1,7 +1,2 @@
-DROP TABLE IF EXISTS Person;
+--Place SQL Skripts here
 
-CREATE TABLE Person	(
-	id SERIAL PRIMARY KEY,
-  	firstName varchar(255),	
-	lastName varchar(255)
-);
