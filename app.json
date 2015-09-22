@@ -1,6 +1,7 @@
 {
   "name": "template java spring",
   "description": "create a deploy button on Heroku",
-  "repository": "https://github.com/vahidsheikhalizadeh/my-template",
+  "repository": "https://github.com/ca2so/swapp.git",
+  "addons": ["heroku-postgresql:hobby-dev"],
   "keywords": ["java", "heroku", "spring"]
 }
